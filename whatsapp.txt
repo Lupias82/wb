@@ -1,0 +1,1097 @@
+[2021-03-27 17:26:44]
+{"sender":"6289522811620@s.whatsapp.net","msg":"r"}
+
+[2021-03-27 23:40:15]
+null
+
+[2021-03-27 23:40:52]
+null
+
+[2021-03-27 23:41:01]
+null
+
+[2021-03-27 23:43:24]
+{"sender":"6289522811620@s.whatsapp.net","msg":"dsfsd"}
+
+[2021-03-27 23:43:43]
+null
+
+[2021-03-27 23:44:08]
+null
+
+[2021-03-27 23:44:25]
+null
+
+[2021-03-27 23:44:35]
+{"sender":"6289522811620@s.whatsapp.net","msg":"ddd"}
+
+[2021-03-27 23:45:55]
+{"sender":"6289522811620@s.whatsapp.net","msg":"vvv"}
+
+[2021-03-27 23:47:21]
+{"sender":"6289522811620@c.us","msg":"zscxzzc"}
+
+[2021-03-27 23:48:09]
+{"sender":"6289522811620@c.us","msg":"sfdfsdf"}
+
+[2021-03-27 23:49:35]
+{"sender":"6289522811620@c.us","msg":"sdsda"}
+
+[2021-03-27 23:50:38]
+{"sender":"6289522811620@c.us","msg":"asdsadsa"}
+
+ya 
+
+[2021-03-27 23:51:28]
+{"sender":"6289522811620@c.us","msg":"sdasd"}
+
+ya 
+
+[2021-03-27 23:52:07]
+{"sender":"6289522811620@c.us","msg":"adssa"}
+
+6289522811620
+
+[2021-03-27 23:52:56]
+{"sender":"6289522811620@c.us","msg":"sdfsdf"}
+
+
+
+[2021-03-27 23:53:47]
+{"sender":"6289522811620@c.us","msg":"sdfsdf"}
+
+1
+
+[2021-03-27 23:54:01]
+{"sender":"6289522811620@c.us","msg":"ya"}
+
+tes 
+
+[2021-03-27 23:55:22]
+{"sender":"6289522811620@c.us","msg":"asdasd"}
+
+tes 
+
+[2021-03-27 23:56:08]
+{"sender":"6289522811620@c.us","msg":"dsfdsfds"}
+
+tes 
+
+[2021-03-27 23:57:35]
+{"sender":"6289522811620@c.us","msg":"sdfdsf"}
+
+tes 
+
+[2021-03-27 23:57:55]
+{"sender":"6289522811620@c.us","msg":"sdfsdf"}
+
+tes 
+
+[2021-03-27 23:58:55]
+{"sender":"6289522811620@c.us","msg":"asdsa"}
+
+tes 
+
+[2021-03-27 23:59:10]
+{"sender":"6289522811620@c.us","msg":"asdas"}
+
+tes 
+
+[2021-03-27 23:59:27]
+{"sender":"6289522811620@c.us","msg":"dsfdsfds"}
+
+tes 
+
+[2021-03-27 23:59:59]
+{"sender":"6289522811620@c.us","msg":"sdasda"}
+
+[2021-03-28 00:00:45]
+null
+
+[2021-03-28 00:01:07]
+null
+
+[2021-03-28 00:01:22]
+null
+
+[2021-03-28 00:01:54]
+null
+
+[2021-03-28 00:02:39]
+null
+
+[2021-03-28 00:03:02]
+null
+
+[2021-03-28 00:03:30]
+null
+
+[2021-03-28 00:05:56]
+{"sender":"6289522811620@c.us","msg":"dfs"}
+
+[2021-03-28 00:06:16]
+{"sender":"6289522811620@c.us","msg":"sadasd"}
+
+[2021-03-28 00:06:29]
+{"sender":"6289522811620@c.us","msg":"asda"}
+
+[2021-03-28 00:20:55]
+{"sender":"6289522811620@c.us","msg":"G"}
+
+[2021-03-28 00:20:58]
+{"sender":"6289522811620@c.us","msg":"H"}
+
+[2021-03-28 00:21:00]
+{"sender":"6289522811620@c.us","msg":"Y"}
+
+[2021-03-28 00:21:01]
+{"sender":"6289522811620@c.us","msg":"D"}
+
+[2021-03-28 00:21:02]
+{"sender":"6289522811620@c.us","msg":"G"}
+
+[2021-03-28 00:21:07]
+{"sender":"6289522811620@c.us","msg":"G"}
+
+[2021-03-28 00:21:18]
+{"sender":"6289522811620@c.us","msg":"Gg"}
+
+[2021-03-28 00:31:24]
+{"sender":"6289522811620@c.us","msg":"anjay"}
+
+[2021-03-28 00:33:54]
+{"sender":"6289522811620@c.us","msg":"anjay"}
+
+[2021-03-28 00:34:07]
+{"sender":"6289522811620@c.us","msg":"anjay"}
+
+[2021-03-28 00:36:51]
+{"sender":"6289522811620@c.us","msg":"anjayu"}
+
+[2021-03-28 00:36:55]
+{"sender":"6289522811620@c.us","msg":"anjay"}
+
+[2021-03-31 14:06:16]
+{"sender":"6281311462241@c.us","msg":"Hooh"}
+
+[2021-03-31 14:13:26]
+{"sender":"6282121472840@c.us","msg":"Halo"}
+
+[2021-03-31 14:17:00]
+{"sender":"6282121472840@c.us","msg":"Ada yg bisa saya bantu kak?"}
+
+[2021-03-31 14:32:20]
+{"sender":"6281311462241@c.us","msg":"Hooh"}
+
+[2021-05-27 17:16:02]
+{"sender":"6281321204186@c.us","msg":"Iya"}
+
+[2021-05-31 11:35:23]
+{"sender":"6281321204186@c.us","msg":"P"}
+
+[2021-05-31 11:35:35]
+{"sender":"6281321204186@c.us","msg":"Hosting nya pake positiv ssl ga"}
+
+[2021-05-31 12:55:42]
+{"sender":"6281321204186@c.us","msg":"LOGIN DOMAINESIA\nrqqstore@gmail.com\npw : rqqstore11."}
+
+[2021-05-31 12:55:42]
+{"sender":"6281321204186@c.us","msg":"Untuk api pulsa dll nanti nyusul"}
+
+[2021-06-02 02:47:20]
+{"sender":"6281321204186@c.us","msg":"Dah sampe mana project"}
+
+[2021-06-04 23:44:19]
+{"sender":"6281321204186@c.us","msg":"Pnya gw gmna"}
+
+[2021-06-04 23:56:27]
+{"sender":"6281321204186@c.us","msg":"Apa nya.??"}
+
+[2021-06-04 23:57:07]
+{"sender":"6281321204186@c.us","msg":"Emang setiap orderan pun buyer ga dapet wa sihh dari nomor si raja"}
+
+[2021-06-05 00:02:46]
+{"sender":"6281321204186@c.us","msg":"Wait"}
+
+[2021-06-05 00:12:59]
+{"sender":"6281321204186@c.us","msg":"Itu wabit pnya si raja di setting gmna.??"}
+
+[2021-06-05 00:13:19]
+{"sender":"6281321204186@c.us","msg":"D setting ngirim otomatis k buyer kek yg pnya gw ga.??"}
+
+[2021-06-05 01:07:36]
+{"sender":"6281321204186@c.us","msg":"\ud83e\udd26\u200d\u2642\ufe0f"}
+
+[2021-06-05 01:07:36]
+{"sender":"6281321204186@c.us","msg":"Kelarin aja dlu pnya dia broo"}
+
+[2021-06-05 01:07:36]
+{"sender":"6281321204186@c.us","msg":"Biar tenang"}
+
+[2021-06-05 13:44:45]
+{"sender":"6281321204186@c.us","msg":"Iya"}
+
+[2021-06-05 14:50:55]
+{"sender":"6281321204186@c.us","msg":"Broo"}
+
+[2021-06-05 14:53:45]
+{"sender":"6281321204186@c.us","msg":"Kun developer harga nya d samain sama apa.??"}
+
+[2021-06-05 14:54:19]
+{"sender":"6281321204186@c.us","msg":"Kok kluar nya harga member ya"}
+
+[2021-06-05 14:54:21]
+{"sender":"6281321204186@c.us","msg":"\ud83d\ude33"}
+
+[2021-06-05 14:56:08]
+{"sender":"6281321204186@c.us","msg":"Ff pubg ml juga"}
+
+[2021-06-05 14:56:22]
+{"sender":"6281321204186@c.us","msg":"Gw blom ngecek pake akun resseler sihh"}
+
+[2021-06-05 14:56:30]
+{"sender":"6281321204186@c.us","msg":"Tar sekalian aja gw cek dlu"}
+
+[2021-06-05 15:04:25]
+{"sender":"6281321204186@c.us","msg":"Oh iya"}
+
+[2021-06-05 15:04:28]
+{"sender":"6281321204186@c.us","msg":"\ud83e\udd23"}
+
+[2021-06-08 22:51:00]
+{"sender":"6282216361110@c.us","msg":"Kak"}
+
+[2021-06-08 22:51:00]
+{"sender":"6282216361110@c.us","msg":"Halo assalamualaikum"}
+
+[2021-06-08 22:52:28]
+{"sender":"6281321204186@c.us","msg":"Broo"}
+
+[2021-06-08 22:52:38]
+{"sender":"6282216361110@c.us","msg":"Aku teman boy yg bikin web kmaren kak"}
+
+[2021-06-08 22:53:01]
+{"sender":"6281321204186@c.us","msg":"Kalo si raja nanya2 masalah harga....suruh tanya k gw aja ya..."}
+
+[2021-06-08 22:53:35]
+{"sender":"6281321204186@c.us","msg":"Trus per penambahan layanan gw bilang k dia 50K"}
+
+[2021-06-08 22:54:11]
+{"sender":"6282216361110@c.us","msg":"Aku mau banyak refisi web kak"}
+
+[2021-06-08 22:54:18]
+{"sender":"6282216361110@c.us","msg":"Bisa kah"}
+
+[2021-06-08 22:54:35]
+{"sender":"6282216361110@c.us","msg":"Tampilan sma"}
+
+[2021-06-08 22:54:44]
+{"sender":"6282216361110@c.us","msg":"Api dekumintasi"}
+
+[2021-06-08 22:55:39]
+{"sender":"6282216361110@c.us","msg":"Harganya jauh"}
+
+[2021-06-08 22:55:56]
+{"sender":"6281321204186@c.us","msg":"Kalo fitur terserah lu..."}
+
+[2021-06-08 22:56:00]
+{"sender":"6281321204186@c.us","msg":"Brapa"}
+
+[2021-06-08 22:56:08]
+{"sender":"6282216361110@c.us","msg":"Web web besar biaanya ambil diasana"}
+
+[2021-06-08 22:56:13]
+{"sender":"6281321204186@c.us","msg":"Per fitur kan beda harga nya"}
+
+[2021-06-08 22:56:19]
+{"sender":"6282216361110@c.us","msg":"Bentar kak tampilan nya"}
+
+[2021-06-08 22:56:26]
+{"sender":"6282216361110@c.us","msg":"Aku kirim contoh"}
+
+[2021-06-08 22:58:15]
+{"sender":"6281321204186@c.us","msg":"Itu dia ngechat...."}
+
+[2021-06-08 22:58:20]
+{"sender":"6281321204186@c.us","msg":"Ada yg mau d perbaiki katanya"}
+
+[2021-06-08 22:58:24]
+{"sender":"6281321204186@c.us","msg":"Benerin aja...."}
+
+[2021-06-08 22:58:34]
+{"sender":"6281321204186@c.us","msg":"Ntar itung2an sama gw"}
+
+[2021-06-08 22:58:35]
+{"sender":"6282216361110@c.us","msg":"demoku"}
+
+[2021-06-08 22:58:36]
+{"sender":"6281321204186@c.us","msg":"Ok"}
+
+[2021-06-08 22:58:36]
+{"sender":"6282216361110@c.us","msg":"demoku123"}
+
+[2021-06-08 22:58:51]
+{"sender":"6282216361110@c.us","msg":"Bisa gak kak tampilan kek gitu"}
+
+[2021-06-08 23:05:29]
+{"sender":"6282216361110@c.us","msg":"Byar brp kak"}
+
+[2021-06-08 23:06:00]
+{"sender":"6281321204186@c.us","msg":"Wait lgi gw tanya mau tampilan gmna"}
+
+[2021-06-08 23:08:55]
+{"sender":"6282216361110@c.us","msg":"Bolehh"}
+
+[2021-06-08 23:11:55]
+{"sender":"6282216361110@c.us","msg":"Kak"}
+
+[2021-06-08 23:11:56]
+{"sender":"6282216361110@c.us","msg":"Ini untuk digiflas"}
+
+[2021-06-08 23:12:22]
+{"sender":"6281321204186@c.us","msg":"Load Page\u00a00.0004\u00a0s"}
+
+[2021-06-08 23:12:22]
+{"sender":"6282216361110@c.us","msg":"Gmana apa aku cari selernya dulu"}
+
+[2021-06-08 23:14:46]
+{"sender":"6281321204186@c.us","msg":"Sama pulsa katanya ambil dari digiflash"}
+
+[2021-06-08 23:16:30]
+{"sender":"6281321204186@c.us","msg":"Kalo ga salah itu codingan nya si rgsan yg team dari atl"}
+
+[2021-06-08 23:16:50]
+{"sender":"6282216361110@c.us","msg":"Yg di"}
+
+[2021-06-08 23:16:57]
+{"sender":"6282216361110@c.us","msg":"Digiflas kak"}
+
+[2021-06-08 23:19:02]
+{"sender":"6282216361110@c.us","msg":"Udah kak udah frvikasi"}
+
+[2021-06-08 23:19:02]
+{"sender":"6282216361110@c.us","msg":"Sisa kerjanya aja"}
+
+[2021-06-08 23:19:04]
+{"sender":"6282216361110@c.us","msg":"Aku mau fokus game"}
+
+[2021-06-08 23:19:11]
+{"sender":"6282216361110@c.us","msg":"Otomatis"}
+
+[2021-06-08 23:24:51]
+{"sender":"6281321204186@c.us","msg":"Untuk ganti tamplate nya"}
+
+[2021-06-08 23:24:51]
+{"sender":"6282216361110@c.us","msg":"Mau kapan di kerjakan aku siapin produk nya di digiflas"}
+
+[2021-06-08 23:24:51]
+{"sender":"6282216361110@c.us","msg":"Ok kak"}
+
+[2021-06-08 23:24:51]
+{"sender":"6281321204186@c.us","msg":"Tapi bisa.??"}
+
+[2021-06-08 23:24:51]
+{"sender":"6281321204186@c.us","msg":"Brapa"}
+
+[2021-06-08 23:29:49]
+{"sender":"6281321204186@c.us","msg":"Ok"}
+
+[2021-06-08 23:29:53]
+{"sender":"6281321204186@c.us","msg":"Garap dah"}
+
+[2021-06-08 23:30:10]
+{"sender":"6282216361110@c.us","msg":"Banyak yg butuh web teman aku"}
+
+[2021-06-08 23:33:45]
+{"sender":"6281321204186@c.us","msg":"Jngan langsung d timpa ya...buat aja dlu d contoh.rqqstore.com atau apa kek"}
+
+[2021-06-08 23:33:45]
+{"sender":"6282216361110@c.us","msg":"Besok besok tak arahin kesini"}
+
+[2021-06-09 11:00:55]
+{"sender":"6282216361110@c.us","msg":"Bikin tampilan dulu"}
+
+[2021-06-09 11:00:56]
+{"sender":"6282216361110@c.us","msg":"Hehehe"}
+
+[2021-06-09 11:01:09]
+{"sender":"6282216361110@c.us","msg":"Klo smua vitur dah bgus"}
+
+[2021-06-09 11:01:29]
+{"sender":"6282216361110@c.us","msg":"Nanti aku gabungin ke teman teman aku"}
+
+[2021-06-09 11:01:29]
+{"sender":"6282216361110@c.us","msg":"Buat apinya"}
+
+[2021-06-09 11:03:34]
+{"sender":"6282216361110@c.us","msg":"yg kayak lapak gameng"}
+
+[2021-06-09 11:03:44]
+{"sender":"6282216361110@c.us","msg":"Tapi nanti kasik tiga ..\nMenu"}
+
+[2021-06-09 11:03:50]
+{"sender":"6282216361110@c.us","msg":"Di geseran atas"}
+
+[2021-06-09 11:04:19]
+{"sender":"6282216361110@c.us","msg":"TELPON \nGAME\nVOUCHER"}
+
+[2021-06-09 11:06:01]
+{"sender":"6282216361110@c.us","msg":"Misal kayak gini"}
+
+[2021-06-09 11:06:36]
+{"sender":"6282216361110@c.us","msg":"Yg pling bgus"}
+
+[2021-06-09 11:06:41]
+{"sender":"6282216361110@c.us","msg":"\ud83e\udd2d"}
+
+[2021-06-09 21:43:36]
+{"sender":"6282216361110@c.us","msg":"Wkwk"}
+
+[2021-06-09 21:47:13]
+{"sender":"6282216361110@c.us","msg":"Bos"}
+
+[2021-06-09 21:47:22]
+{"sender":"6282216361110@c.us","msg":"Ini hago bisa gak ya"}
+
+[2021-06-09 21:47:31]
+{"sender":"6282216361110@c.us","msg":"Otomatis jugak"}
+
+[2021-06-09 21:49:00]
+{"sender":"6282216361110@c.us","msg":"Dan apa yg di butuhkan"}
+
+[2021-06-09 21:49:01]
+{"sender":"6282216361110@c.us","msg":"Hago jugak ada saldo"}
+
+[2021-06-09 21:51:00]
+{"sender":"6282216361110@c.us","msg":"Ada"}
+
+[2021-06-09 21:51:09]
+{"sender":"6282216361110@c.us","msg":"Link agen rasmi"}
+
+[2021-06-09 21:52:10]
+{"sender":"6282216361110@c.us","msg":"https:\/\/www.ihago.net\/a\/recharge-of-agent\/index.html"}
+
+[2021-06-09 21:52:19]
+{"sender":"6282216361110@c.us","msg":"Kaka login"}
+
+[2021-06-09 21:55:37]
+{"sender":"6282216361110@c.us","msg":"Itu bukan agen rasmi gak bisa akses"}
+
+[2021-06-09 21:56:52]
+{"sender":"6282216361110@c.us","msg":"Aku bisa"}
+
+[2021-06-09 21:57:38]
+{"sender":"6282216361110@c.us","msg":"Harua kasi 0"}
+
+[2021-06-09 21:59:12]
+{"sender":"6282216361110@c.us","msg":"Kok aku bisa ya"}
+
+[2021-06-09 22:04:12]
+{"sender":"6282216361110@c.us","msg":"Yg ini"}
+
+[2021-06-09 22:04:50]
+{"sender":"6282216361110@c.us","msg":"082226361110"}
+
+[2021-06-09 22:04:56]
+{"sender":"6282216361110@c.us","msg":"Pkek ini"}
+
+[2021-06-09 22:05:33]
+{"sender":"6282216361110@c.us","msg":"\ud83e\udd23"}
+
+[2021-06-09 22:06:24]
+{"sender":"6282216361110@c.us","msg":"\ud83d\ude02"}
+
+[2021-06-09 22:06:40]
+{"sender":"6282216361110@c.us","msg":"Blom"}
+
+[2021-06-09 22:06:41]
+{"sender":"6282216361110@c.us","msg":"Ada"}
+
+[2021-06-12 22:28:05]
+{"sender":"6289682779598@c.us","msg":"Okk"}
+
+[2021-06-13 19:46:41]
+{"sender":"6282216361110@c.us","msg":"Web jugak"}
+
+[2021-06-13 22:31:49]
+{"sender":"6282216361110@c.us","msg":"Gak apa"}
+
+[2021-06-13 22:31:49]
+{"sender":"6282216361110@c.us","msg":"Iya"}
+
+[2021-06-13 22:31:53]
+{"sender":"6282216361110@c.us","msg":"Hago"}
+
+[2021-06-13 22:31:55]
+{"sender":"6282216361110@c.us","msg":"Mnual ya"}
+
+[2021-06-13 22:33:47]
+{"sender":"6282216361110@c.us","msg":"Broo"}
+
+[2021-06-13 22:34:08]
+{"sender":"6282216361110@c.us","msg":"Bisa sistem ada tulisan discond gak wkwk"}
+
+[2021-06-13 22:34:54]
+{"sender":"6282216361110@c.us","msg":"Harga 500k discon 30%"}
+
+[2021-06-13 22:34:55]
+{"sender":"6282216361110@c.us","msg":"Gitu"}
+
+[2021-06-13 22:36:33]
+{"sender":"6282216361110@c.us","msg":"Ini kilb1 di r3ua\nG3v3vk 45 6f63kza"}
+
+[2021-06-13 22:36:57]
+{"sender":"6282216361110@c.us","msg":"Broo"}
+
+[2021-06-13 22:37:17]
+{"sender":"6282216361110@c.us","msg":"List hago manual apa opa pakek carculator"}
+
+[2021-06-13 22:37:41]
+{"sender":"6282216361110@c.us","msg":"Kayak web yg rqqstore"}
+
+[2021-06-13 22:40:43]
+{"sender":"6282216361110@c.us","msg":"Ya udah ok pakek karculstor"}
+
+[2021-06-13 22:42:40]
+{"sender":"6282216361110@c.us","msg":"Lucky live\nDigo live\nNono live"}
+
+[2021-06-13 22:42:51]
+{"sender":"6282216361110@c.us","msg":"Ratenya di web rqqstore ya sma"}
+
+[2021-06-14 22:21:13]
+{"sender":"62822163611101623224734@c.us","msg":"login di dev ya"}
+
+[2021-06-14 22:29:19]
+{"sender":"62822163611101623224734@c.us","msg":"Wah mantep"}
+
+[2021-06-14 22:29:50]
+{"sender":"6282216361110@c.us","msg":"Cek grup"}
+
+[2021-06-14 23:40:25]
+{"sender":"6282216361110@c.us","msg":"Haha"}
+
+[2021-06-14 23:40:36]
+{"sender":"6282216361110@c.us","msg":"\ud83e\udd23 bwak istirahat yg cukup"}
+
+[2021-06-15 00:02:52]
+{"sender":"6282216361110@c.us","msg":"Istrirahat dah .."}
+
+[2021-06-15 00:02:59]
+{"sender":"6282216361110@c.us","msg":"Muga cpet sembuh ya"}
+
+[2021-06-15 18:04:53]
+{"sender":"6282216361110@c.us","msg":"Broo"}
+
+[2021-06-15 18:04:55]
+{"sender":"6282216361110@c.us","msg":"Web"}
+
+[2021-06-15 18:05:09]
+{"sender":"6282216361110@c.us","msg":"Yg lama nanti ilang gak tuh broo"}
+
+[2021-06-15 18:05:25]
+{"sender":"6282216361110@c.us","msg":"Atau jadi dua web aja"}
+
+[2021-06-23 19:06:19]
+{"sender":"62822163611101623224734@c.us","msg":"oh nah mnt ip servernya yg mau di whitelist"}
+
+[2021-06-23 19:10:27]
+{"sender":"62822163611101623224734@c.us","msg":"ok"}
+
+[2021-06-23 19:27:54]
+{"sender":"6282216361110@c.us","msg":"Mantap"}
+
+[2021-06-23 19:27:57]
+{"sender":"6282216361110@c.us","msg":"\ud83d\ude02"}
+
+[2021-06-23 19:28:25]
+{"sender":"6282216361110@c.us","msg":"Bni"}
+
+[2021-06-23 19:28:30]
+{"sender":"6282216361110@c.us","msg":"Bikin nya lama"}
+
+[2021-06-23 20:38:40]
+{"sender":"6282216361110@c.us","msg":"Kriim kmana"}
+
+[2021-06-23 20:38:40]
+{"sender":"6282216361110@c.us","msg":"Dong"}
+
+[2021-06-23 20:38:40]
+{"sender":"6282216361110@c.us","msg":"Ada"}
+
+[2021-06-23 21:41:37]
+{"sender":"6282216361110@c.us","msg":","}
+
+[2021-06-23 21:43:16]
+{"sender":"6282216361110@c.us","msg":"Apinya"}
+
+[2021-06-23 21:43:22]
+{"sender":"6282216361110@c.us","msg":"Dah bisa lom"}
+
+[2021-06-23 21:43:37]
+{"sender":"6282216361110@c.us","msg":"Dari lapakgame"}
+
+[2021-06-23 21:43:53]
+{"sender":"6282216361110@c.us","msg":"Kira kira kira kapan loncingnya wkwk"}
+
+[2021-06-23 21:43:59]
+{"sender":"6282216361110@c.us","msg":"Aku mau siapin indors"}
+
+[2021-06-23 22:31:20]
+{"sender":"6281321204186@c.us","msg":"Fitur maintenance d ilangin ya"}
+
+[2021-06-23 22:31:37]
+{"sender":"6281321204186@c.us","msg":"Klo bisa d maintenance aja dlu sampe normal lagi smua"}
+
+[2021-06-23 22:31:50]
+{"sender":"6281321204186@c.us","msg":"Ntar aja klo udah d rumah"}
+
+[2021-06-27 02:13:01]
+{"sender":"6282216361110@c.us","msg":"Boleh"}
+
+[2021-06-27 22:15:35]
+{"sender":"6281321204186@c.us","msg":"Sipp dah jalan"}
+
+[2021-06-27 22:15:37]
+{"sender":"6281321204186@c.us","msg":"Broo"}
+
+[2021-06-27 22:15:53]
+{"sender":"6281321204186@c.us","msg":"Tolong cek yg server pulsa sama kuota dong..."}
+
+[2021-06-27 22:21:43]
+{"sender":"6281321204186@c.us","msg":"Piro"}
+
+[2021-07-12 19:55:26]
+{"sender":"6282216361110@c.us","msg":"Udah"}
+
+[2021-07-12 19:55:59]
+{"sender":"6282216361110@c.us","msg":"Jdi k"}
+
+[2021-07-12 19:55:59]
+{"sender":"6282216361110@c.us","msg":"H"}
+
+[2021-07-12 20:06:49]
+{"sender":"6282216361110@c.us","msg":"Gme"}
+
+[2021-07-12 20:06:51]
+{"sender":"6282216361110@c.us","msg":"Ml"}
+
+[2021-07-12 20:09:07]
+{"sender":"6282216361110@c.us","msg":"Cobak aja"}
+
+[2021-07-12 20:09:39]
+{"sender":"6282216361110@c.us","msg":"Ke akun kamu yg kcil"}
+
+[2021-07-12 20:20:15]
+{"sender":"6282216361110@c.us","msg":"Nanti aku isiin saldo di lapak game 100k abisiin"}
+
+[2021-07-12 20:20:15]
+{"sender":"6282216361110@c.us","msg":"\ud83e\udd23"}
+
+[2021-07-12 21:51:37]
+{"sender":"6281311883274@c.us","msg":"Hallo Achmad Ihdar Khairi, Kode OTP anda untuk login adalah *177768*, Terimakasih Telah Bergabung bersama MysticPay"}
+
+[2021-07-15 20:51:52]
+{"sender":"6282216361110@c.us","msg":"Mana"}
+
+[2021-07-15 20:51:52]
+{"sender":"6282216361110@c.us","msg":"Mantap"}
+
+[2021-07-15 20:51:58]
+{"sender":"6282216361110@c.us","msg":"Webnya"}
+
+[2021-07-15 20:51:59]
+{"sender":"6282216361110@c.us","msg":"Boskuh"}
+
+[2021-07-15 20:52:32]
+{"sender":"62822163611101623224734@c.us","msg":"Mantap"}
+
+[2021-07-15 20:52:32]
+{"sender":"62822163611101623224734@c.us","msg":"Gas aja di lapak game di game 1 \ud83e\udd23"}
+
+[2021-07-15 20:52:35]
+{"sender":"62822163611101623224734@c.us","msg":"Pugb siap loncing"}
+
+[2021-07-15 20:52:38]
+{"sender":"62822163611101623224734@c.us","msg":"Ada even"}
+
+[2021-07-15 20:52:39]
+{"sender":"62822163611101623224734@c.us","msg":"Gila"}
+
+[2021-07-16 10:27:57]
+{"sender":"6287860060634@c.us","msg":"pin nya apa?"}
+
+[2021-07-16 10:29:36]
+{"sender":"6287860060634@c.us","msg":"p"}
+
+[2021-07-16 10:39:45]
+{"sender":"6287860060634@c.us","msg":"mau lihat2 bisa kasi user adminya"}
+
+[2021-07-16 10:54:25]
+{"sender":"6287860060634@c.us","msg":"gmna?"}
+
+[2021-07-16 11:10:28]
+{"sender":"6283893139624@c.us","msg":"Sya mau complain min, kok saldo sya blm jga brtambah ya??"}
+
+[2021-07-16 11:10:36]
+{"sender":"6283893139624@c.us","msg":"Pdhl sdh di TF melalui BNi Otomatis"}
+
+[2021-07-16 11:10:58]
+{"sender":"6287860060634@c.us","msg":"berapaan?"}
+
+[2021-07-16 11:13:27]
+{"sender":"6287860060634@c.us","msg":"pake pihak ke 3 atau gk?"}
+
+[2021-07-16 11:13:27]
+{"sender":"6287860060634@c.us","msg":"mutasi tanpa bulanan itu?"}
+
+[2021-07-16 11:14:09]
+{"sender":"6283893139624@c.us","msg":"Okk min, ini sya cba depo dikit dlu. Kalo memang lancar sistem nya bakal terus gunakan ini \ud83d\ude4f\ud83c\udffc\ud83d\udc4d\ud83c\udffc"}
+
+[2021-07-16 11:15:03]
+{"sender":"6287860060634@c.us","msg":"barusan coba depo pake alfamart knp blm bisa"}
+
+[2021-07-16 11:16:02]
+{"sender":"6287860060634@c.us","msg":"https method no alowed"}
+
+[2021-07-16 11:18:03]
+{"sender":"6287860060634@c.us","msg":"knp atau API atlantic group? mutasi api wa"}
+
+[2021-07-16 11:23:26]
+{"sender":"6287860060634@c.us","msg":"mutasi bri ada?"}
+
+[2021-07-16 11:23:56]
+{"sender":"6287860060634@c.us","msg":"depo via alfamart blm mau"}
+
+[2021-07-16 11:23:59]
+{"sender":"6287860060634@c.us","msg":"VA"}
+
+[2021-07-16 11:27:14]
+{"sender":"6287860060634@c.us","msg":"deposit alfamart masih error itu"}
+
+[2021-07-16 11:29:36]
+{"sender":"6287860060634@c.us","msg":"itu di provider ada medan pedia, tapi categorynya gak ada?"}
+
+[2021-07-16 11:35:49]
+{"sender":"6287860060634@c.us","msg":"kalo ditambahin bisa"}
+
+[2021-07-16 11:41:46]
+{"sender":"6287860060634@c.us","msg":"Mutasi Gopaynya berfungsi?"}
+
+[2021-07-16 11:43:15]
+{"sender":"6283893139624@c.us","msg":"Min blm msk jga saldo nya gmna ??"}
+
+[2021-07-16 11:47:57]
+{"sender":"6283893139624@c.us","msg":"Bisa tlong di proses saldo nya skrg?"}
+
+[2021-07-16 11:49:07]
+{"sender":"6283893139624@c.us","msg":"Wait tak cek"}
+
+[2021-07-16 11:49:20]
+{"sender":"6283893139624@c.us","msg":"Yg udh otomatis via apa aja? BNI saja?"}
+
+[2021-07-16 11:52:07]
+{"sender":"6283893139624@c.us","msg":"Ok min, utk sistem otomatis usahakan jgn mlbihi waktu 5mnit agak sedikit fast. Soalnya tkut nanti klo lgi bnyk yg mau beli pulsa gak nunggu lama deposit nya \ud83d\ude00"}
+
+[2021-07-16 11:54:38]
+{"sender":"6283893139624@c.us","msg":"Sdh min"}
+
+[2021-07-16 11:57:10]
+{"sender":"6283893139624@c.us","msg":"Utk Apk nya msih ada Bug nya atau gimana ya min?"}
+
+[2021-07-16 12:00:53]
+{"sender":"6283893139624@c.us","msg":"Sdh dideposit kn blm min utk saldo nya?"}
+
+[2021-07-16 12:00:59]
+{"sender":"6283893139624@c.us","msg":"Oke tak cba lgi"}
+
+[2021-07-16 12:03:34]
+{"sender":"6283893139624@c.us","msg":"Oke sya tnggu, jatuhnya sistem msh bug brarti perlu kmbali ke sistem manual saja min biar cepet \ud83d\ude01"}
+
+[2021-07-16 12:03:49]
+{"sender":"6283893139624@c.us","msg":"Sistem deposit mksd ny"}
+
+[2021-07-16 12:06:04]
+{"sender":"6283893139624@c.us","msg":"Ywdh min, klo seperti ini smntara sistem depo manual saja bisa langsung di proses kan di akun sya?"}
+
+[2021-07-16 12:07:03]
+{"sender":"6283893139624@c.us","msg":"Oke"}
+
+[2021-07-16 12:36:21]
+{"sender":"6283893139624@c.us","msg":"Iya betul"}
+
+[2021-07-16 12:36:49]
+{"sender":"6283893139624@c.us","msg":"Oalah\ud83e\udd26\ud83c\udffb\u200d\u2642\ufe0f"}
+
+[2021-07-16 12:37:00]
+{"sender":"6283893139624@c.us","msg":"Wait tak cek"}
+
+[2021-07-16 12:37:38]
+{"sender":"6283893139624@c.us","msg":"Done min, jdi saat ini klo mau depo manual saja bsa?"}
+
+[2021-07-17 20:34:30]
+{"sender":"6285311512547@c.us","msg":"L"}
+
+[2021-07-17 20:34:30]
+{"sender":"6285311512547@c.us","msg":"P"}
+
+[2021-07-17 20:34:30]
+{"sender":"6285311512547@c.us","msg":"P"}
+
+[2021-07-17 20:34:31]
+{"sender":"6285311512547@c.us","msg":"P"}
+
+[2021-07-17 20:34:32]
+{"sender":"6285311512547@c.us","msg":"P"}
+
+[2021-07-17 20:35:49]
+{"sender":"6285311512547@c.us","msg":"P"}
+
+[2021-07-17 20:35:49]
+{"sender":"6285311512547@c.us","msg":"P"}
+
+[2021-07-17 20:35:49]
+{"sender":"6285311512547@c.us","msg":"P"}
+
+[2021-07-17 20:38:25]
+{"sender":"6285311512547@c.us","msg":"Bisa balas pesan saya?"}
+
+[2021-07-17 20:38:39]
+{"sender":"6285311512547@c.us","msg":"Ini temen nya Hendrik kan"}
+
+[2021-07-17 21:10:14]
+{"sender":"6282260834032@c.us","msg":"Hoax"}
+
+[2021-07-17 21:11:06]
+{"sender":"6282260834032@c.us","msg":"P"}
+
+[2021-07-17 21:11:06]
+{"sender":"6282260834032@c.us","msg":"Kode"}
+
+[2021-07-17 22:22:29]
+{"sender":"6282260330555@c.us","msg":"Haloo mas"}
+
+[2021-07-17 22:23:37]
+{"sender":"6282260330555@c.us","msg":"Boleh tanya kah mas?"}
+
+[2021-07-20 21:37:04]
+{"sender":"6282216361110@c.us","msg":"Walah"}
+
+[2021-07-20 21:37:06]
+{"sender":"6282216361110@c.us","msg":"\ud83e\udd23"}
+
+[2021-07-20 21:38:28]
+{"sender":"6282216361110@c.us","msg":"Ok bos"}
+
+[2021-07-20 21:40:47]
+{"sender":"6282216361110@c.us","msg":"\ud83d\ude2d besok y di tf"}
+
+[2021-07-20 21:41:00]
+{"sender":"6282216361110@c.us","msg":"Aku ga bisa ke atas"}
+
+[2021-07-24 11:56:40]
+{"sender":"62822163611101623224734@c.us","msg":"Belom loncing"}
+
+[2021-07-24 11:56:51]
+{"sender":"62822163611101623224734@c.us","msg":"Masih perbaikin nomer rekening"}
+
+[2021-07-24 11:56:58]
+{"sender":"62822163611101623224734@c.us","msg":"ooo siap"}
+
+[2021-07-27 13:04:41]
+{"sender":"6282216361110@c.us","msg":"Lagi"}
+
+[2021-07-27 13:04:41]
+{"sender":"6282216361110@c.us","msg":"Aku cobak dposit"}
+
+[2021-07-27 13:04:41]
+{"sender":"6282216361110@c.us","msg":"Bro"}
+
+[2021-07-27 13:04:42]
+{"sender":"6282216361110@c.us","msg":"Muncul kek gitu"}
+
+[2021-07-27 13:05:02]
+{"sender":"6282216361110@c.us","msg":"Saat konfirmasi"}
+
+[2021-09-02 21:00:20]
+{"sender":"6285730000727@c.us","msg":"Yth. Akhdana Aqila Farhan,\nProses pengajuan merchant Neupay (T6091) telah disetujui dan aktif. Anda sudah dapat menggunakan merchant untuk bertransaksi"}
+
+[2021-09-12 23:52:19]
+null
+
+[2021-09-12 23:52:21]
+null
+
+[2021-10-01 01:16:22]
+{"sender":"6289691918800@c.us","msg":"Malah ga bisa masuk"}
+
+[2021-10-19 19:29:16]
+{"sender":"6281238363366@c.us","msg":"Udah bisa om"}
+
+[2021-10-19 19:29:32]
+{"sender":"6281238363366@c.us","msg":"Selanjutnya bagaimana?"}
+
+[2021-10-19 19:43:38]
+{"sender":"6281238363366@c.us","msg":"Iya sudah coba daftar"}
+
+[2021-10-19 19:47:59]
+{"sender":"6281238363366@c.us","msg":"Perlu api key sama apa aja dari digiflazz?"}
+
+[2021-10-19 19:50:57]
+{"sender":"6281238363366@c.us","msg":"username: kuotabox@gmail.com\npassword: SonganB280316"}
+
+[2021-10-19 19:52:34]
+{"sender":"6281238363366@c.us","msg":"ini dibantu diproteksi ya om"}
+
+[2021-10-19 19:52:42]
+{"sender":"6281238363366@c.us","msg":"biar gak langsung muncul dashboard adminnya"}
+
+[2021-10-19 19:57:02]
+{"sender":"6281238363366@c.us","msg":"Belum masuk"}
+
+[2021-10-19 19:59:16]
+{"sender":"6281238363366@c.us","msg":"masih blm masuk juga"}
+
+[2021-10-19 20:01:45]
+{"sender":"6281238363366@c.us","msg":"656600"}
+
+[2021-10-19 20:03:01]
+{"sender":"6281238363366@c.us","msg":"kok gak masuk ya"}
+
+[2021-10-19 20:03:06]
+{"sender":"6281238363366@c.us","msg":"tadi saya login masuk OTPnya"}
+
+[2021-10-19 20:04:02]
+{"sender":"6281238363366@c.us","msg":"833344"}
+
+[2021-10-19 20:05:33]
+{"sender":"6281238363366@c.us","msg":"309549"}
+
+[2021-10-19 20:09:57]
+{"sender":"6281238363366@c.us","msg":"400420"}
+
+[2021-10-19 20:16:22]
+{"sender":"6281238363366@c.us","msg":"Pulsanya udah on kok"}
+
+[2021-10-19 20:25:20]
+{"sender":"6281238363366@c.us","msg":"Masih failed"}
+
+[2021-10-19 20:27:09]
+{"sender":"6281238363366@c.us","msg":"ID digiflazz yg mana ya?"}
+
+[2021-10-19 20:27:38]
+{"sender":"6281238363366@c.us","msg":"696493"}
+
+[2021-10-19 20:30:13]
+{"sender":"6281238363366@c.us","msg":"dimana cari UID?"}
+
+[2021-10-19 20:38:55]
+{"sender":"6282323893565@c.us","msg":"Bagaimana bg?"}
+
+[2021-10-19 20:39:05]
+{"sender":"6281238363366@c.us","msg":"pepumug5nG1o"}
+
+[2021-10-19 20:40:41]
+{"sender":"6281238363366@c.us","msg":"chat belum dijawab"}
+
+[2021-10-19 20:41:12]
+{"sender":"6281238363366@c.us","msg":"dapatnya dari sini"}
+
+[2021-10-19 20:43:52]
+{"sender":"6281238363366@c.us","msg":"yang keynya itu sudah yg dipakai production key ya?"}
+
+[2021-10-19 20:53:12]
+{"sender":"6282323893565@c.us","msg":"SDH domain?"}
+
+[2021-10-19 20:54:07]
+{"sender":"6282323893565@c.us","msg":"Ke Abang nya ,pasang SJ ya?"}
+
+[2021-10-19 20:59:31]
+{"sender":"6281238363366@c.us","msg":"https:\/\/t.me\/joinchat\/X_kmJ1jMd9Q3MjY1"}
+
+[2021-10-19 21:00:05]
+{"sender":"6282323893565@c.us","msg":"Ok bg,cari domain dulu"}
+
+[2021-10-19 21:07:18]
+{"sender":"6281238363366@c.us","msg":"Masih"}
+
+[2021-10-19 21:07:38]
+{"sender":"6281238363366@c.us","msg":"Pulsa biasa"}
+
+[2021-10-19 21:07:43]
+{"sender":"6281238363366@c.us","msg":"Coba aku order dana"}
+
+[2021-10-19 21:08:38]
+{"sender":"6281238363366@c.us","msg":"Sama"}
+
+[2021-10-19 21:08:40]
+{"sender":"6281238363366@c.us","msg":"Failed juga"}
+
+[2021-10-19 21:09:57]
+{"sender":"6281238363366@c.us","msg":"ini sudah benar ya"}
+
+[2021-10-19 21:10:02]
+{"sender":"6281238363366@c.us","msg":"soalnya saldo di sini keliahatan 0"}
+
+[2021-10-19 21:10:28]
+{"sender":"6281238363366@c.us","msg":"masih belum terbaca itu"}
+
+[2021-10-19 21:12:27]
+{"sender":"6281238363366@c.us","msg":"itu total saldo pusatnya belum kebaca"}
+
+[2021-10-19 21:13:00]
+{"sender":"6281238363366@c.us","msg":"kalau sudah connect harusnya kan keliahatan saldo digiflaznya"}
+
+[2021-10-19 21:13:01]
+{"sender":"6281238363366@c.us","msg":"Rp 74.822"}
+
+[2021-10-19 21:21:39]
+{"sender":"6281238363366@c.us","msg":"masih failed"}
+
+[2021-10-19 21:23:41]
+{"sender":"6281238363366@c.us","msg":"apa IPnya perlu diwhitelist dulu?"}
+
+[2021-10-19 21:24:22]
+{"sender":"6281238363366@c.us","msg":"oh aku kira itu IP lama"}
+
+[2021-10-19 21:57:10]
+{"sender":"6281238363366@c.us","msg":"IP hostingnya"}
+
+[2021-10-19 21:57:48]
+{"sender":"6281238363366@c.us","msg":"rackrock.co.id"}
+
+[2021-10-19 21:58:43]
+{"sender":"6281238363366@c.us","msg":"di digiflazz?"}
+
+[2021-10-19 22:01:12]
+{"sender":"6281238363366@c.us","msg":"Yes, sukse"}
+
+[2021-10-19 22:03:03]
+{"sender":"6281238363366@c.us","msg":"Pulsa udah masuk, tapi statusnya masih pending"}
+
+[2021-10-19 22:03:47]
+{"sender":"6281238363366@c.us","msg":"siap"}
+
+[2021-10-19 22:04:48]
+{"sender":"6281238363366@c.us","msg":"di Cpanel ini soalnya"}
+
+[2021-10-19 22:04:59]
+{"sender":"6281238363366@c.us","msg":"kok digiflazz detect IPnya beda ya?"}
+
+[2021-10-19 22:05:32]
+{"sender":"6281238363366@c.us","msg":"nyari yg murah"}
+
+[2021-10-19 22:05:34]
+{"sender":"6281238363366@c.us","msg":"wkwkw"}
+
+[2021-10-19 22:05:51]
+{"sender":"6281238363366@c.us","msg":"akses adminnya"}
+
+[2021-10-19 22:06:03]
+{"sender":"6281238363366@c.us","msg":"mau setup mdetode deposit"}
+
+[2021-10-19 22:06:09]
+{"sender":"6281238363366@c.us","msg":"dan lain2 dari dashboard"}
+
+[2021-10-19 22:06:29]
+{"sender":"6281238363366@c.us","msg":"admin dashboardnya?"}
+

@@ -1,0 +1,11 @@
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+(node:18777) UnhandledPromiseRejectionWarning: BaileysError: cannot connect when state=connecting
+    at WAConnection.connect (/home/rsmvsnfr/wa.quota.my.id/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:38:19)
+    at connect (/home/rsmvsnfr/wa.quota.my.id/index.js:65:13)
+    at Socket.socket.on (/home/rsmvsnfr/wa.quota.my.id/index.js:90:4)
+    at Socket.emit (events.js:193:13)
+    at process.nextTick (/home/rsmvsnfr/wa.quota.my.id/node_modules/socket.io/dist/socket.js:435:32)
+    at processTicksAndRejections (internal/process/task_queues.js:79:9)
+(node:18777) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:18777) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
